@@ -104,8 +104,12 @@ scipy==1.10.1
 shapely==2.0.6
 shellingham==1.5.4
 trimesh==4.5.1
-
-
+fastapi
+uvicorn
+httpx
+httpx_socks
+aiohttp
+websockets
 
 
 
