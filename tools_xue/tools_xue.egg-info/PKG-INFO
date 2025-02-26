@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: tools-xue
+Version: 0.1.0
+Author: xue
+Requires-Python: >=3.6.0
+Requires-Dist: torch>=1.4
